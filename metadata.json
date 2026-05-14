@@ -1,0 +1,6 @@
+{
+  "name": "Python Mentor",
+  "description": "An interactive AI bot that teaches Python with code examples and voice integration.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["AI Chat", "Python Tutoring", "Voice Synthesis"]
+}
